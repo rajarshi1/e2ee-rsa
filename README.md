@@ -34,7 +34,8 @@ NA
 
 Node <br />
 PNPM <br />
-Typescript
+Typescript <br />
+node-RSA
 
 # Authors
 Rajarshi Ghoshal 
