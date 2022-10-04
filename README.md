@@ -2,8 +2,8 @@
 
 **e2ee-rsa** Demo app for testing RSA based e2ee
 
-# Please note this project uses PNPM as the node package manager, if you donot have it installed, you can install it using ```npm install -g pnpm``` 
-  refer here - https://pnpm.io/installation
+Please note this project uses PNPM as the node package manager, if you donot have it installed, you can install it using ```npm install -g pnpm``` 
+refer here - https://pnpm.io/installation
 
 # Table of Contents
 
